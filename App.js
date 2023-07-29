@@ -16,8 +16,6 @@ const App = () => {
     <SafeAreaView>
       <View style={styles.container}>
         <Home />
-        <ListComp />
-        <Tuchable />
       </View>
     </SafeAreaView>
   );
